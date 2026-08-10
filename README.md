@@ -1,4 +1,4 @@
-# Roadmap.sh DevOps Projects
+# List DevOps Projects
 
 1. [Server Performance Stats](https://roadmap.sh/projects/server-stats) ✅
 2. [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool) ✅
@@ -21,5 +21,3 @@
 19. Prometheus and Grafana
 20. Multi-Service Application
 21. Service Discovery
-
-All projects can be found on [roadmap.sh](https://roadmap.sh/devops/projects)
