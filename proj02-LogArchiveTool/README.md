@@ -47,3 +47,5 @@ When the archiving process runs, it:
 - Removes backup archives older than the retention period.
 
 After the menu loop, the script asks whether to install a cron job for daily execution at `0 2 * * *`.
+
+https://roadmap.sh/projects/log-archive-tool
