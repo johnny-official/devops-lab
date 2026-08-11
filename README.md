@@ -4,8 +4,8 @@ A collection of DevOps projects, each in its own folder. Every project has its o
 
 ## Projects
 
-1. [Server Performance Stats](./proj01-ServerPerformanceStats)
-2. [Log Archive Tool](./proj02-LogArchiveTool)
+1. [Server Performance Stats](./proj01-ServerPerformanceStats) ✅
+2. [Log Archive Tool](./proj02-LogArchiveTool) ✅
 3. [Nginx Log Analyser](./proj03-NginxLogAnalyser)
 4. [GitHub Pages Deployment](./proj04-GitHubPagesDeployment)
 5. [SSH Remote Server Setup](./proj05-SSHRemoteServerSetup)
